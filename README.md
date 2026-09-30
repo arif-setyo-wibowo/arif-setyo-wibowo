@@ -18,6 +18,11 @@ Saya membangun aplikasi web dengan **PHP, Laravel, dan CodeIgniter**, dari anali
 
 | Proyek | Deskripsi | Teknologi |
 |---|---|---|
+| V-SLA Monitor | Sistem tiket dan monitoring SLA vendor pengembang aplikasi (proyek klien, kode privat) | PHP Native |
+| [Smart PPA](https://github.com/arif-setyo-wibowo/smartapp) |  Sistem penilaian kinerja vendor Pertamina Lubricants (proyek klien, kode privat) | PHP Native |
+| Trendy Spring Bed | Marketplace perusahaan kasur dengan fitur chat (proyek klien, kode privat) | Laravel |
+| E-Logistik Rumah Sakit | Sistem PO, penerimaan barang, stok opname, dan laporan logistik rumah sakit (proyek klien, kode privat) | Laravel |
+| [Gideonmogo](https://github.com/arif-setyo-wibowo/gideonmogo) | Marketplace online produk game | Laravel |
 | [TradeID](https://github.com/arif-setyo-wibowo/tradeid) | Platform promosi UMKM Indonesia ke pasar global | CodeIgniter 3, Ajax, Bootstrap, MySQL |
 | [Toko Komputer](https://github.com/arif-setyo-wibowo/toko-komputer) | Website e-commerce produk komputer | Laravel 10, Bootstrap, Ajax, MySQL |
 | [ITCamp](https://github.com/arif-setyo-wibowo/itcamp) | Platform bootcamp internal mahasiswa Informatika | Laravel 8, MySQL, Login Google |
