@@ -1,10 +1,10 @@
 # Hi, saya Arif Setyo Wibowo 👋
 
-**Web Developer & Junior QA** | Lulusan S1 Informatika UPN "Veteran" Jawa Timur (IPK 3,83) | Sidoarjo, Indonesia
+**Web Developer** | Lulusan S1 Informatika UPN "Veteran" Jawa Timur (IPK 3,83) | Sidoarjo, Indonesia
 
-Saya membangun aplikasi web dengan **PHP, Laravel, dan CodeIgniter**, dari analisis kebutuhan, desain database, sampai deployment. Saat ini saya juga memperdalam **Quality Assurance** (Manual Testing, Test Case Design, dan API Testing dengan Postman).
+Saya membangun aplikasi web dengan **PHP, Laravel, dan CodeIgniter**, dari analisis kebutuhan, desain database, sampai deployment.
 
-📌 Sedang mencari peluang sebagai **Web Developer** atau **Junior QA Engineer**.
+📌 Sedang mencari peluang sebagai **Web Developer**.
 
 ## 🛠️ Tech Stack
 
